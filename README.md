@@ -1,2 +1,4 @@
 # AirBeam
-Wrapper for Eco Experience exhibit
+A web wrapper for the AirBeam Eco Experience exhibit.
+
+
